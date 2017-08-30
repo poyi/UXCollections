@@ -6,17 +6,8 @@
     <description>Recent content on Adventure Time!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Aug 2017 09:08:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2015 23:12:18 -0300</lastBuildDate>
     <atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Test</title>
-      <link>http://example.com/test/</link>
-      <pubDate>Wed, 30 Aug 2017 09:08:28 +0000</pubDate>
-      
-      <guid>http://example.com/test/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Contact</title>
